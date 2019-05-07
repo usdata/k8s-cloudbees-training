@@ -9,3 +9,8 @@ http://vfarcic.github.io/devops24/workshop.html#/4/1
 
 Victor's Book URL:
 https://www.amazon.com/gp/product/1718187548/ref=as_li_tl?ie=UTF8&tag=farciccom-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1718187548&linkId=15c5f0dda1c460fa81b835f6fdf2cd4e
+
+
+Hashi Corp Vault for SSH
+https://www.hashicorp.com/resources/manage-ssh-with-hashicorp-vault
+
